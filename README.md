@@ -4,7 +4,8 @@
 
 ### Este repo contiene los avances del Equipo 22 del curso Análisis de Grandes Volúmenes de Datos.
 
-Prof Luis Eduardo Falcón Morales
+Profesor: Alberto De Obeso Orendain
+Tutor: Luis Angel Lozano Medina
 
 ### Integrantes:
 
